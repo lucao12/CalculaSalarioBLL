@@ -1,0 +1,22 @@
+C:\Users\unisanta\source\repos\EX3\EX3\bin\Debug\EX3.exe.config
+C:\Users\unisanta\source\repos\EX3\EX3\bin\Debug\EX3.exe
+C:\Users\unisanta\source\repos\EX3\EX3\bin\Debug\EX3.pdb
+C:\Users\unisanta\source\repos\EX3\EX3\obj\Debug\EX3.csproj.AssemblyReference.cache
+C:\Users\unisanta\source\repos\EX3\EX3\obj\Debug\EX3.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\source\repos\EX3\EX3\obj\Debug\EX3.Form1.resources
+C:\Users\unisanta\source\repos\EX3\EX3\obj\Debug\EX3.Properties.Resources.resources
+C:\Users\unisanta\source\repos\EX3\EX3\obj\Debug\EX3.csproj.GenerateResource.cache
+C:\Users\unisanta\source\repos\EX3\EX3\obj\Debug\EX3.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\source\repos\EX3\EX3\obj\Debug\EX3.exe
+C:\Users\unisanta\source\repos\EX3\EX3\obj\Debug\EX3.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\TPs\TP ASENJO\C# Forms\EX3\EX3\bin\Debug\EX3.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\TPs\TP ASENJO\C# Forms\EX3\EX3\bin\Debug\EX3.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\TPs\TP ASENJO\C# Forms\EX3\EX3\bin\Debug\EX3.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\TPs\TP ASENJO\C# Forms\EX3\EX3\obj\Debug\EX3.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\TPs\TP ASENJO\C# Forms\EX3\EX3\obj\Debug\EX3.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\TPs\TP ASENJO\C# Forms\EX3\EX3\obj\Debug\EX3.Form1.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\TPs\TP ASENJO\C# Forms\EX3\EX3\obj\Debug\EX3.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\TPs\TP ASENJO\C# Forms\EX3\EX3\obj\Debug\EX3.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\TPs\TP ASENJO\C# Forms\EX3\EX3\obj\Debug\EX3.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\TPs\TP ASENJO\C# Forms\EX3\EX3\obj\Debug\EX3.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\TPs\TP ASENJO\C# Forms\EX3\EX3\obj\Debug\EX3.pdb
